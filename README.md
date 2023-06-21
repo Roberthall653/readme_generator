@@ -18,6 +18,7 @@ To install necessary dependencies, run the following command:
 >npm i
 ## Usage
 Please install all dependencies before running the program.
+For demonstration, please see: https://drive.google.com/file/d/1SUnWsPJ9vO2iDI0xF0bblm03lruUf38D/view
 ## Credits
 ## License
 No license was used for this project

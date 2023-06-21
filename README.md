@@ -1,8 +1,9 @@
-# README generator
-<img src="https://img.shields.io/badge/License-MIT-blue">  
+# README Generator  
+
+![License](https://img.shields.io/badge/License-grey.svg)  
 
 ## Description
-An application to make README files.
+A command line application used to create quality README files for projects.
 
 ## Table of Contents
 -[Installation](#installation)  
@@ -13,15 +14,15 @@ An application to make README files.
 -[Questions](#questions)  
 
 ## Installation
- To install necessary dependencies, run the following command: 
- >npm i
+To install necessary dependencies, run the following command: 
+>npm i
 ## Usage
-Please install dependencies before running program.
+Please install all dependencies before running the program.
 ## Credits
 ## License
-This project is licensed under the MIT license
+No license was used for this project
 ## Contribute
-Please open a pull request!
+If you would like to contribute to the project, make a pull request!
 ## Tests
 npm test
 ## Questions
